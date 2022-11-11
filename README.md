@@ -1,4 +1,4 @@
-![Github Cover](https://user-images.githubusercontent.com/16065174/201400056-64eafb14-fa45-4184-9619-0a46e3d4a8e7.jpg)
+![Github Cover](https://user-images.githubusercontent.com/16065174/201400532-89de6d6e-fbfe-4e6e-ab5e-798bd68d081c.jpg)
 
 ## Howdy, my name is ✨Gabe 👋
 
