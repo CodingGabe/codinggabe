@@ -1,6 +1,6 @@
 ### Howdy, my name is ✨Gabe 👋
 
-Welcome to my ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] page.
+Welcome to my ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) page.
 I go by the title UX Engineer because I have a strong blend of Design Thinking, Web Design, and Front-End Web Development. Currently working full-time as a lead Front-End Web Developer at [Snappy Kraken 🦑](https://snappykraken.com/).
 
 - 🔬 I'm currently focused on learning Vue JS.
